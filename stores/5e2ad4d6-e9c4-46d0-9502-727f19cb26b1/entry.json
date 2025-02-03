@@ -1,0 +1,10 @@
+{
+  "uuid" : "5e2ad4d6-e9c4-46d0-9502-727f19cb26b1",
+  "name" : "nj-dockge-00",
+  "categoryUuid" : "fc994061-6131-4a9c-8fdc-663e237b4309",
+  "color" : "green",
+  "icon" : "dockge",
+  "configuration" : {
+    "deletable" : true
+  }
+}
