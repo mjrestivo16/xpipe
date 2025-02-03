@@ -1,0 +1,22 @@
+{
+  "type" : "localIdentity",
+  "username" : "root",
+  "password" : {
+    "encryptedToken" : {
+      "token" : "oaUB8+Bsgz0K4KqdiCzGrsxI94xevQdjvXr5zC85Z3pi"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "JyalZtinQ6OvImbD3t4q-gOP7A8MOOdDH72R5wZyB7fc50RQ4j2QSoVvPH6CRr0olGMVv8gmdkc-M7egh5w1-ddBl3YXkm8JOi7-OHbIn6SvcuyDrTK5dPyhiEmUq2E8AXNoMpGE4G2Xq3thy9-AZlmCDegXolF9YTVr5Wcb8UtisBWsDc5i5RjJFYyPp2Wy-E93q4MhTxmtxns+gpd3Er0HKtmbYjQLrQVYF+ZMNWO5nFw="
+    }
+  },
+  "sshIdentity" : {
+    "encryptedToken" : {
+      "token" : "oaUB8+Bsgz0K4KqdiCzGrsxI94xevQdjvXr5zC85Z3pi"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "SA2QzDdGr-+C1WgcLUanjDqgmhe5B1Rg7RJBPjlfCBzQnxWIzj+MrS0EKXf5v5LUGOoh"
+    }
+  }
+}

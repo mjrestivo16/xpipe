@@ -35,6 +35,10 @@ empty
 
 **All identities / Synced**
 
+- [**proxmox login**](stores/0523e2e6-35d9-4143-906e-b74b48426d71)
+- [**ssh-key login**](stores/e54354a2-bd1d-4acb-a361-8a1984771fec)
+- [**truenas-00**](stores/7edae3fc-e085-4885-8d72-ede760a9c366)
+- [**username and password**](stores/dd0efbdd-b35c-4b3f-a73d-90ae9d5ae712)
 - [**windows sync**](stores/995a8b8e-d8b3-48dc-bff4-999115225562)
 
 

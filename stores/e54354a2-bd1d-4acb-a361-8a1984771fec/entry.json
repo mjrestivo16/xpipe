@@ -1,0 +1,10 @@
+{
+  "uuid" : "e54354a2-bd1d-4acb-a361-8a1984771fec",
+  "name" : "ssh-key login",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

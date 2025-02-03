@@ -1,0 +1,10 @@
+{
+  "uuid" : "0523e2e6-35d9-4143-906e-b74b48426d71",
+  "name" : "proxmox login",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
