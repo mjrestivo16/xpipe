@@ -1,0 +1,10 @@
+{
+  "uuid" : "7280c2d2-9a72-4a2c-a03d-70e449783b90",
+  "name" : "dash",
+  "categoryUuid" : "fc994061-6131-4a9c-8fdc-663e237b4309",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
