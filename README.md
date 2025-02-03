@@ -43,7 +43,14 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / Proxmox and VMs**
 
-empty
+- [**nj-proxmox-00**](stores/509dcd7b-ce8e-4667-acff-46b8b0e74a86)
+  - [**Proxmox systems**](stores/b9ec1bb9-5d63-4d81-b488-e539706c591f)
+    - [**checkmk**](stores/2d27cdc0-1986-4972-88a9-567972f33d8a)
+    - [**Services**](stores/2dcd398b-fd60-4354-b39e-ddd66e7103e1)
+      - [**Dashboard**](stores/f2dd4419-2cd1-4d07-8c35-8511c6157819)
+  - [**Shell environments**](stores/5862f53c-cfa3-45e1-956e-c70350e071a3)
+    - [**bash**](stores/b1d94846-9a8b-4a6d-8840-7411a628f2e4)
+    - [**dash**](stores/589550fa-2d71-40f3-9081-5baa49ea90e4)
 
 **All scripts / Custom**
 
