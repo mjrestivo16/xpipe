@@ -1,0 +1,10 @@
+{
+  "uuid" : "dd0efbdd-b35c-4b3f-a73d-90ae9d5ae712",
+  "name" : "username and password",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
