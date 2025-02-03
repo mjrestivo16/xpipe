@@ -1,0 +1,10 @@
+{
+  "uuid" : "a9489b13-bb5f-4c61-8f2f-6758da8462ec",
+  "name" : "nj-rpi-dns-00",
+  "categoryUuid" : "5a0a8cea-87e7-47bc-b3c6-6ad7d54161a6",
+  "color" : "red",
+  "icon" : "raspberry-pi",
+  "configuration" : {
+    "deletable" : true
+  }
+}
