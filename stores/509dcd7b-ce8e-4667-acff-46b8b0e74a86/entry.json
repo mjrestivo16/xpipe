@@ -1,0 +1,10 @@
+{
+  "uuid" : "509dcd7b-ce8e-4667-acff-46b8b0e74a86",
+  "name" : "nj-proxmox-00",
+  "categoryUuid" : "fc994061-6131-4a9c-8fdc-663e237b4309",
+  "color" : "green",
+  "icon" : "proxmox",
+  "configuration" : {
+    "deletable" : true
+  }
+}

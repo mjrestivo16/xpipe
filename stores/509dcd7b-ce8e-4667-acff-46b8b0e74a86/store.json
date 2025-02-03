@@ -1,0 +1,17 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "192.168.16.20",
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "0523e2e6-35d9-4143-906e-b74b48426d71"
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
