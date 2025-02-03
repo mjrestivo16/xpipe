@@ -23,7 +23,11 @@ empty
 
 **All connections / RPi**
 
-empty
+- [**nj-rpi-dns-01**](stores/7fc8acd9-f4d6-46cd-8e82-80521ab8a5fd)
+  - [**Shell environments**](stores/d5c6256a-eff5-4613-a77b-361f5cf32367)
+    - [**bash**](stores/0c4f6411-ab21-466a-9d93-a9173c0ead8d)
+    - [**dash**](stores/ebf55676-4211-4834-84b5-63681bceb0f6)
+    - [**sudo**](stores/485eee98-907e-47e4-8ae4-cc9622b53846)
 
 **All connections / Proxmox and VMs**
 
