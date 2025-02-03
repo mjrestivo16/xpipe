@@ -1,0 +1,10 @@
+{
+  "uuid" : "7f9d1ae3-90a1-449e-be09-d1579e19797a",
+  "name" : "nj-checkmk-00",
+  "categoryUuid" : "fc994061-6131-4a9c-8fdc-663e237b4309",
+  "color" : null,
+  "icon" : "checkmk",
+  "configuration" : {
+    "deletable" : true
+  }
+}
