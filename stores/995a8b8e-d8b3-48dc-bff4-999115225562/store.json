@@ -1,0 +1,23 @@
+{
+  "type" : "syncedIdentity",
+  "username" : "mark",
+  "password" : {
+    "encryptedToken" : {
+      "token" : "8N5feqr05LpC+BU4kBPOIi26to4S0kJDtmdddcPL6X2I"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "pOpXU1MMkAAxEur1XJwq7MQAcl81e-Xz+SSvIr9hJXUz5Xutb8mh8yGn+CJ0WSt6ZzVF8pmPxRg1+8OsX8kQZgVccHTTrAEwpLPO6rBfm61Sbv+Kk3Udl7CmIHqy98kjnoP1IAGeI8hc6MNiW7SmFfKzNr20JkD4AxGGdt29pou2xGBerFJ2P3aQJX2YfmLhfxbTXw1gbDm9aED0K0pUxhejCUaNMKNCxDVNvrd2AiCd6n4="
+    }
+  },
+  "sshIdentity" : {
+    "encryptedToken" : {
+      "token" : "8N5feqr05LpC+BU4kBPOIi26to4S0kJDtmdddcPL6X2I"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "IOp4JtN2llMxRY2V-y3gJJgzVUZlIPsCWNsC7NI1RTdTN4H45C+4UjrURzCAPPfkt6qF"
+    }
+  },
+  "perUser" : false
+}
