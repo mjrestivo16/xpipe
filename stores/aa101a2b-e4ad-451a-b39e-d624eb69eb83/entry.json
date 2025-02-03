@@ -1,0 +1,10 @@
+{
+  "uuid" : "aa101a2b-e4ad-451a-b39e-d624eb69eb83",
+  "name" : "nj-rpi-ups-00",
+  "categoryUuid" : "5a0a8cea-87e7-47bc-b3c6-6ad7d54161a6",
+  "color" : "red",
+  "icon" : "raspberry-pi",
+  "configuration" : {
+    "deletable" : true
+  }
+}
