@@ -1,0 +1,15 @@
+{
+  "type" : "fixedService",
+  "remotePort" : 8006,
+  "localPort" : null,
+  "serviceProtocolType" : {
+    "type" : "https",
+    "path" : null
+  },
+  "host" : {
+    "storeId" : "f7c4341d-04fa-42a5-9ee8-88e0babd2f0d"
+  },
+  "displayParent" : {
+    "storeId" : "4ab2dbc9-7679-470e-a821-72a945839d09"
+  }
+}
