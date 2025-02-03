@@ -1,0 +1,10 @@
+{
+  "uuid" : "fb1b9e83-a5c2-4739-af2f-ce7f5de6c0c3",
+  "name" : "sudo",
+  "categoryUuid" : "5a0a8cea-87e7-47bc-b3c6-6ad7d54161a6",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
