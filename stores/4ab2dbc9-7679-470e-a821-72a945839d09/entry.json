@@ -1,0 +1,10 @@
+{
+  "uuid" : "4ab2dbc9-7679-470e-a821-72a945839d09",
+  "name" : "Proxmox systems",
+  "categoryUuid" : "fc994061-6131-4a9c-8fdc-663e237b4309",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
