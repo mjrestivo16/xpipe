@@ -23,6 +23,11 @@ empty
 
 **All connections / RPi**
 
+- [**nj-rpi-dns-00**](stores/a9489b13-bb5f-4c61-8f2f-6758da8462ec)
+  - [**Shell environments**](stores/070b766a-f261-4777-a630-7dc5429d9544)
+    - [**bash**](stores/bb15e78f-06fd-4d1e-bcfc-e82bb6a47487)
+    - [**dash**](stores/5a94c65d-9166-496c-b7fb-796818609d0f)
+    - [**sudo**](stores/fb1b9e83-a5c2-4739-af2f-ce7f5de6c0c3)
 - [**nj-rpi-dns-01**](stores/7fc8acd9-f4d6-46cd-8e82-80521ab8a5fd)
   - [**Shell environments**](stores/d5c6256a-eff5-4613-a77b-361f5cf32367)
     - [**bash**](stores/0c4f6411-ab21-466a-9d93-a9173c0ead8d)
