@@ -19,7 +19,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All connections / Storage**
 
-empty
+- [**nj-truenas-00**](stores/92aa7787-eb71-404c-bbd5-26a219fe405a)
 
 **All connections / RPi**
 
