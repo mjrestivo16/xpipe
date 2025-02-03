@@ -1,0 +1,7 @@
+{
+  "type" : "dockerContext",
+  "cmd" : {
+    "storeId" : "d6d916c8-3c96-4a24-aa01-0a75f2186a4e"
+  },
+  "name" : "default"
+}
