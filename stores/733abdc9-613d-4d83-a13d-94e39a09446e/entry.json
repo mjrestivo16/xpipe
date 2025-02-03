@@ -1,0 +1,10 @@
+{
+  "uuid" : "733abdc9-613d-4d83-a13d-94e39a09446e",
+  "name" : "Docker containers",
+  "categoryUuid" : "5a0a8cea-87e7-47bc-b3c6-6ad7d54161a6",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
