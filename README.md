@@ -28,6 +28,13 @@ empty
     - [**bash**](stores/0c4f6411-ab21-466a-9d93-a9173c0ead8d)
     - [**dash**](stores/ebf55676-4211-4834-84b5-63681bceb0f6)
     - [**sudo**](stores/485eee98-907e-47e4-8ae4-cc9622b53846)
+- [**nj-rpi-ups-00**](stores/aa101a2b-e4ad-451a-b39e-d624eb69eb83)
+  - [**Docker containers**](stores/733abdc9-613d-4d83-a13d-94e39a09446e)
+    - [**default**](stores/df554429-080d-4d1f-84d2-65e55d1c9f5c)
+  - [**Shell environments**](stores/01f0b6ab-e9c3-49bb-b05d-c8c4e6446eb7)
+    - [**bash**](stores/d4bdcd4b-d7e2-40dd-a09f-a0837d4edb80)
+    - [**dash**](stores/92b0d546-da3f-40ca-9e81-b8990d991a06)
+    - [**sudo**](stores/b1a514a2-8646-40c0-a5cb-457c3caa80b3)
 
 **All connections / Proxmox and VMs**
 
@@ -39,11 +46,11 @@ empty
 
 **All identities / Synced**
 
+- [**Default Login**](stores/995a8b8e-d8b3-48dc-bff4-999115225562)
 - [**proxmox login**](stores/0523e2e6-35d9-4143-906e-b74b48426d71)
 - [**ssh-key login**](stores/e54354a2-bd1d-4acb-a361-8a1984771fec)
 - [**truenas-00**](stores/7edae3fc-e085-4885-8d72-ede760a9c366)
 - [**username and password**](stores/dd0efbdd-b35c-4b3f-a73d-90ae9d5ae712)
-- [**windows sync**](stores/995a8b8e-d8b3-48dc-bff4-999115225562)
 
 
 ## Secret encryption
