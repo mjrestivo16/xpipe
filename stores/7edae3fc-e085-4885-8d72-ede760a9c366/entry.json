@@ -1,0 +1,10 @@
+{
+  "uuid" : "7edae3fc-e085-4885-8d72-ede760a9c366",
+  "name" : "truenas-00",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

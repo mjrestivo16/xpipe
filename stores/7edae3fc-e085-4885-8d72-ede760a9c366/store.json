@@ -1,0 +1,22 @@
+{
+  "type" : "localIdentity",
+  "username" : "truenas_admin",
+  "password" : {
+    "encryptedToken" : {
+      "token" : "+LSMUF9L+jUyqmdNG3AL+wY6DXh4grTLX4opwEJDLK4x"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "OoBmjZRbsYQEedxzRYZ4hdXTz8wJCS-nCd+HnsKi5stMPKwHVErtxUPHxK0l3kdUqzS2AnQLIwtf1e9WL5ckO0iNIFgZOj5GzICLxU4EoqnluKWnQz6jWSYmhfdKknuwItxByQyduWBQwCpUxDsmi0ojPWKRVp4KRcP3KsKvI2IT-OH77vsri0meI4m+42USiabpi+QpkX8880HVjN5mWFzaJoosyNdo9kYM7EtT0HLzVS8="
+    }
+  },
+  "sshIdentity" : {
+    "encryptedToken" : {
+      "token" : "+LSMUF9L+jUyqmdNG3AL+wY6DXh4grTLX4opwEJDLK4x"
+    },
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "EyNDaFcLa8OqP2E3jGF-xqBd5EvT1L-JqWl21I7oZ3E93PbHJ1ReCR6+lYwxFfjSowl3"
+    }
+  }
+}
