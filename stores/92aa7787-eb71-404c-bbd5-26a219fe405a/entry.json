@@ -1,0 +1,10 @@
+{
+  "uuid" : "92aa7787-eb71-404c-bbd5-26a219fe405a",
+  "name" : "nj-truenas-00",
+  "categoryUuid" : "0c06504c-d162-48af-af98-218781f0e1ea",
+  "color" : "blue",
+  "icon" : "truenas-scale",
+  "configuration" : {
+    "deletable" : true
+  }
+}
